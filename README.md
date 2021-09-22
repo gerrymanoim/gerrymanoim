@@ -3,7 +3,7 @@
 
 ---
 
-I'm currently a Software Engineer in Boston, MA working at [Two Sigma](https://www.twosigma.com/) where I mostly spend my time on building tools for modelers and improving the research process.
+I'm currently a Software Engineer in New York, NY working at [Two Sigma](https://www.twosigma.com/) where I mostly spend my time on building tools for modelers and improving the research process.
 
 Lately I've been spending some time on:
 
